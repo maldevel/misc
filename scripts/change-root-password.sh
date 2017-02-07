@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #    Change the root password for various services
-#	 Copyright (C) 2017 @maldevel
+#    Copyright (C) 2017 @maldevel
 #    https://github.com/maldevel/misc
 #
 #    This program is free software: you can redistribute it and/or modify
